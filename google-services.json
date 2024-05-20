@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892634449288",
+    "project_id": "kid-connect-otpauth",
+    "storage_bucket": "kid-connect-otpauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892634449288:android:54b6798581254eb8abe63d",
+        "android_client_info": {
+          "package_name": "com.pain007.VerifyOtp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIs21Dj0dnetgFl3Rvui5RSabuaOuYamI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
